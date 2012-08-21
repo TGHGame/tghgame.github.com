@@ -1,4 +1,4 @@
-tghgame.github.com
+TGHGame
 ==================
 
-TGHGame Website
+TGHGame is your dream kingdom!
